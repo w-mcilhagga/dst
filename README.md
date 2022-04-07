@@ -1,6 +1,8 @@
 # `dst` - dead simple templates.
 
-`dst` is a very simple very tiny template engine inspired by [mustaches.js](https://github.com/janl/mustache.js/), but built on top of javascript [tagged templates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals). Minimized, the template engine is just 1.22KB
+`dst` is a very simple very tiny template engine inspired by [mustaches.js](https://github.com/janl/mustache.js/), but built on top of javascript [tagged templates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals). Minimized, the template engine is just 1.22KB.
+
+You can also look at some [examples](./examples.md) or try out the examples in the tryout.html page (which must be run using a local server if you download it - I'll put together an online version later.)
 
 ## Usage.
 
